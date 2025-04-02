@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+I am a Computer Technician student at IFSP - Votuporanga and a full-stack developer with experience in HTML, CSS, SQL, PHP, Java, object-oriented programming (OOP), and the MVC model. From a young age, I’ve been deeply fascinated by computing. I’ve always wanted to understand how systems work, the meaning behind programmed codes, and how technology turns ideas into real-world solutions. This passion has driven me to explore various fields, from software development to computer networks, hardware, and information security. 
+
+Beyond my technical skills, I am someone who loves to learn. I see challenges as opportunities for growth and am always eager to explore new ways to solve problems. I believe technology is a powerful tool to transform the world, and I strive to contribute meaningfully to this field. My journey is guided by curiosity, dedication, and the constant desire to grow both professionally and personally.
 
 
 ## 🌐 Socials:
