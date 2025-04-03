@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4242f5&height=120&section=header"/>
+
 # 💫 About Me:
 I am a Computer Technician student at IFSP - Votuporanga and a full-stack developer with experience in HTML, CSS, SQL, PHP, Java, object-oriented programming (OOP), and the MVC model. From a young age, I’ve been deeply fascinated by computing. I’ve always wanted to understand how systems work, the meaning behind programmed codes, and how technology turns ideas into real-world solutions. This passion has driven me to explore various fields, from software development to computer networks, hardware, and information security. 
 
@@ -35,5 +37,7 @@ Beyond my technical skills, I am someone who loves to learn. I see challenges as
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DevCauaSantana&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4242f5&height=120&section=footer"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
