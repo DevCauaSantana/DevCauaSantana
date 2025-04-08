@@ -27,7 +27,6 @@ Beyond my technical skills, I am someone who loves to learn. I see challenges as
 # 📊 GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devcauasantana&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=DevCauaSantana&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DevCauaSantana&theme=tokyonight&hide_border=false)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
