@@ -25,7 +25,7 @@ Beyond my technical skills, I am someone who loves to learn. I see challenges as
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 📊 GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devcauasantana&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devcauasantana&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=DevCauaSantana&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DevCauaSantana&theme=tokyonight&hide_border=false)<br/>
 
