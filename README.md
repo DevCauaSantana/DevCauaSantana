@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4242f5&height=120&section=header"/>
+<img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 
 # 💫 About Me:
 I am a Computer Technician student at IFSP - Votuporanga and a full-stack developer with experience in HTML, CSS, SQL, PHP, Java, object-oriented programming (OOP), and the MVC model. From a young age, I’ve been deeply fascinated by computing. I’ve always wanted to understand how systems work, the meaning behind programmed codes, and how technology turns ideas into real-world solutions. This passion has driven me to explore various fields, from software development to computer networks, hardware, and information security. 
